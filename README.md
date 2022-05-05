@@ -1,4 +1,4 @@
-# STRING-GENERATOR BOT
+# STRING-GENERATORS BOT
 
 - This Bot Can Help U To Generate String Session Pyrogram and Telethon 
 
